@@ -1,0 +1,204 @@
+{
+    "states": [
+        {
+            "name": "Alabama",
+            "link": "https://en.wikipedia.org/wiki/Alabama"
+        },
+        {
+            "name": "Alaska",
+            "link": "https://en.wikipedia.org/wiki/Alaska"
+        },
+        {
+            "name": "Arkansas",
+            "link": "https://en.wikipedia.org/wiki/Arkansas"
+        },
+        {
+            "name": "California",
+            "link": "https://en.wikipedia.org/wiki/California"
+        },
+        {
+            "name": "Colorado",
+            "link": "https://en.wikipedia.org/wiki/Colorado"
+        },
+        {
+            "name": "Delaware",
+            "link": "https://en.wikipedia.org/wiki/Delaware"
+        },
+        {
+            "name": "Florida",
+            "link": "https://en.wikipedia.org/wiki/Florida"
+        },
+        {
+            "name": "Georgia",
+            "link": "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
+        },
+        {
+            "name": "Hawaii",
+            "link": "https://en.wikipedia.org/wiki/Hawaii"
+        },
+        {
+            "name": "Idaho",
+            "link": "https://en.wikipedia.org/wiki/Idaho"
+        },
+        {
+            "name": "Illinois",
+            "link": "https://en.wikipedia.org/wiki/Illinois"
+        },
+        {
+            "name": "Indiana",
+            "link": "https://en.wikipedia.org/wiki/Indiana"
+        },
+        {
+            "name": "Iowa",
+            "link": "https://en.wikipedia.org/wiki/Iowa"
+        },
+        {
+            "name": "Kansas",
+            "link": "https://en.wikipedia.org/wiki/Kansas"
+        },
+        {
+            "name": "Alabama",
+            "link": "https://en.wikipedia.org/wiki/Alabama"
+        },
+        {
+            "name": "Kentucky",
+            "link": "https://en.wikipedia.org/wiki/Kentucky"
+        },
+        {
+            "name": "Louisiana",
+            "link": "https://en.wikipedia.org/wiki/Louisiana"
+        },
+        {
+            "name": "Maine",
+            "link": "https://en.wikipedia.org/wiki/Maine"
+        },
+        {
+            "name": "Maryland",
+            "link": "https://en.wikipedia.org/wiki/Maryland"
+        },
+        {
+            "name": "Massachusetts",
+            "link": "https://en.wikipedia.org/wiki/Massachusetts"
+        },
+        {
+            "name": "Michigan",
+            "link": "https://en.wikipedia.org/wiki/Michigan"
+        },
+        {
+            "name": "Minnesota",
+            "link": "https://en.wikipedia.org/wiki/Minnesota"
+        },
+        {
+            "name": "Mississippi",
+            "link": "https://en.wikipedia.org/wiki/Mississippi"
+        },
+        {
+            "name": "Missouri",
+            "link": "https://en.wikipedia.org/wiki/Missouri"
+        },
+        {
+            "name": "Montana",
+            "link": "https://en.wikipedia.org/wiki/Montana"
+        },
+        {
+            "name": "Nebraska",
+            "link": "https://en.wikipedia.org/wiki/Nebraska"
+        },
+        {
+            "name": "Nevada",
+            "link": "https://en.wikipedia.org/wiki/Nevada"
+        },
+        {
+            "name": "New Hampshire",
+            "link": "https://en.wikipedia.org/wiki/Alabama"
+        },
+        {
+            "name": "Alabama",
+            "link": "https://en.wikipedia.org/wiki/New_Hampshire"
+        },
+        {
+            "name": "New Jersey",
+            "link": "https://en.wikipedia.org/wiki/New_Jersey"
+        },
+        {
+            "name": "New Mexico",
+            "link": "https://en.wikipedia.org/wiki/New_Mexico"
+        },
+        {
+            "name": "New York",
+            "link": "https://en.wikipedia.org/wiki/New_York_(state)"
+        },
+        {
+            "name": "North Carolina",
+            "link": "https://en.wikipedia.org/wiki/North_Carolina"
+        },
+        {
+            "name": "North Dakota",
+            "link": "https://en.wikipedia.org/wiki/North_Dakota"
+        },
+        {
+            "name": "Ohio",
+            "link": "https://en.wikipedia.org/wiki/Ohio"
+        },
+        {
+            "name": "Oklahoma",
+            "link": "https://en.wikipedia.org/wiki/Oklahoma"
+        },
+        {
+            "name": "Oregon",
+            "link": "https://en.wikipedia.org/wiki/Oregon"
+        },
+        {
+            "name": "Pennsylvania",
+            "link": "https://en.wikipedia.org/wiki/Pennsylvania"
+        },
+        {
+            "name": "Rhode Island",
+            "link": "https://en.wikipedia.org/wiki/Rhode_Island"
+        },
+        {
+            "name": "South Carolina",
+            "link": "https://en.wikipedia.org/wiki/South_Carolina"
+        },
+        {
+            "name": "South Dakota",
+            "link": "https://en.wikipedia.org/wiki/South_Dakota"
+        },
+        {
+            "name": "Tennessee",
+            "link": "https://en.wikipedia.org/wiki/Tennessee"
+        },
+        {
+            "name": "Texas",
+            "link": "https://en.wikipedia.org/wiki/Texas"
+        },
+        {
+            "name": "Utah",
+            "link": "https://en.wikipedia.org/wiki/Utah"
+        },
+        {
+            "name": "Vermont",
+            "link": "https://en.wikipedia.org/wiki/Vermont"
+        },
+        {
+            "name": "Virginia",
+            "link": "https://en.wikipedia.org/wiki/Virginia"
+        },
+        {
+            "name": "Washington",
+            "link": "https://en.wikipedia.org/wiki/Washington_(state)"
+        },
+        {
+            "name": "West Virginia",
+            "link": "https://en.wikipedia.org/wiki/West_Virginia"
+        },
+        {
+            "name": "Wisconsin",
+            "link": "https://en.wikipedia.org/wiki/Wisconsin"
+        },
+        {
+            "name": "Wyoming",
+            "link": "https://en.wikipedia.org/wiki/Wyoming"
+        }
+    ]
+}
